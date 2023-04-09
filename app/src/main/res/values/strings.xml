@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="happy_birthday">Happy Birthday !</string>
+    <string name="happy_birthday_atharva">Happy Birthday Atharva!</string>
+    <string name="from_akesh">From Akesh</string>
+    <string name="todo">TODO</string>
+    <string name="happy_birthday1">Happy Birthday</string>
+</resources>
